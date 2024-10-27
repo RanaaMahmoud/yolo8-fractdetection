@@ -1,12 +1,2 @@
 streamlit
 pandas
-math
-Path
-cv2
-numpy 
-base64
-requests
-logging
-PIL
-ultralytics 
-datetime 
